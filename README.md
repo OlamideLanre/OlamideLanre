@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olamide Lanre
-- As a passionate Frontend Developer, I specialize in creating responsive and dynamic web applications using React.js with a strong foundation in HTML, CSS (framework inclusive), JavaScript.
+- Passionate about creating user-centered designs and experiences, I thrive to solve complex problems through creative thinking and technical expertise. 
 - Actively seeking new opportunities to leverage my skills in frontend web development
-- 👀 I’m interested in tech, art and poetry. I’m looking to collaborate on frontend and open source projects, and I’m always eager to learn and grow in the tech community.
+- 👀 I’m looking to collaborate on frontend and open source projects, and I’m always eager to learn and grow in the tech community.
 - 💞️ let's connect and create magic together!
 - 📫 Reach me:
 -  gmail: olanredev@gmail.com
