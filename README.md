@@ -1,3 +1,4 @@
+## Those who seek will find.
 - 👋 Hi, I’m Olamide Lanre
 - Passionate about creating user-centered designs and experiences, I thrive to solve complex problems through creative thinking and technical expertise. 
 - Actively seeking new opportunities to leverage my skills in frontend web development
