@@ -18,7 +18,7 @@
 **Other Tools:**  
 - Git & GitHub, API Integration, Responsive Design Principles
 
-- 📫 Reach me:
+## 📫 Work with me:
 -  **Gmail:** olanredev@gmail.com
 -  **LinkedIn:** [linkedin.com/in/olamide-lanre-7505442b6](https://www.linkedin.com/in/olamide-lanre-7505442b6/)
 -  **Portfolio:** [Coming Soon]
